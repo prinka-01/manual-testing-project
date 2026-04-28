@@ -84,5 +84,5 @@ After completing the checkout process and making a successful payment, the syste
 ---
 
 ## 13. Reported By
-- QA Tester: _(Your Name)_  
-- Date: _(Add Date)_  
+- QA Tester: _Priyanka_  
+- Date: _20/04/2026_  
