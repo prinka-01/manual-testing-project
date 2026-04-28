@@ -55,7 +55,7 @@ After completing the checkout process and making a successful payment, the syste
 ---
 
 ## 8. Attachments
-- Screenshot: _(Add screenshot here if available)_  
+- Screenshots:
 
 ---
 
