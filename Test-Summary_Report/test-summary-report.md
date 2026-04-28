@@ -73,6 +73,6 @@ The system is ready for the next phase (UAT/Production), subject to business app
 ---
 
 ## 9. Sign-off
-- **QA Tester:** _(Your Name)_  
-- **QA Lead:** _(Optional)_  
-- **Date:** _(Add date)_  
+- **QA Tester:** _Priyanka_  
+- **QA Lead:** _Priyanka_  
+- **Date:** _28-4-2026_  
